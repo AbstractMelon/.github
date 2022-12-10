@@ -5,7 +5,7 @@ Mod creators can join this org to move or create repos here. They'll be attribut
 **Helpful Links:**
 
 - [Space Potatoes Discord](https://discord.gg/j39jE6k) - Join the discussion in the modding channels!
-- [Brotato Wiki](https://brotato.wiki.spellsandguns.com/Modding) - Download more mods and read more info about them, including install instructions.
+- [Brotato Wiki](https://brotato.wiki.spellsandguns.com/Modding) - Download mods, read about them, learn how to install mods. All major mods primarily live here.
 
 <!--
 
