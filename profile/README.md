@@ -2,10 +2,7 @@ This organisation collects multiple Brotato modding repos together, in one easy 
 
 Mod creators can join this org to move or create repos here. They'll be attributed to [BrotatoMods](https://github.com/BrotatoMods) but otherwise behave like any other repo, eg. you can still pin repos in this org to your profile. To join, reach out to Darkly77 (`Darkly77#0316`) on the [Space Potatoes Discord](https://discord.gg/j39jE6k).
 
-**Helpful Links:**
-
-- [Space Potatoes Discord](https://discord.gg/j39jE6k) - Join the discussion in the modding channels!
-- [Brotato Wiki](https://brotato.wiki.spellsandguns.com/Modding) - Download mods, read about them, learn how to install mods. All major mods primarily live here.
+Chat about Brotato mods on the [Space Potatoes Discord](https://discord.gg/j39jE6k). Visit the [Brotato Wiki](https://brotato.wiki.spellsandguns.com/Modding) to download mods, read about them, learn how to install mods. All major mods primarily live here.
 
 <!--
 
