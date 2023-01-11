@@ -1,6 +1,6 @@
 This organisation collects multiple Brotato modding repos together, in one easy place. 
 
-### PCKs
+## PCKs
 
 Download the ModLoader PCK to use other mods.
 
@@ -8,7 +8,7 @@ Download the ModLoader PCK to use other mods.
 | --- | --- |
 | 🏗️ [Brotato ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader) | Brotato v0.6.1.6 + ModLoader v2.0.0 |
 
-### Mods
+## Mods
 
 These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader).
 
@@ -21,7 +21,7 @@ These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoade
 | 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | Mutes the explosion effect.  | - | - |
 | ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | Upcoming library of effects and helpers (WIP) | - | - |
 
-### Legacy Mods
+## Legacy Mods
 
 These don't work with ModLoader, but will probably be migrated to it eventually. They are all installed as an autoloaded singleton, after all other singletons.
 
