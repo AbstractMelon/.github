@@ -2,9 +2,9 @@ This organisation collects multiple Brotato modding repos together, in one easy 
 
 *See also:*
 
-- [Space Potatoes Discord](https://discord.gg/j39jE6k) - Official Brotato server
 - [ModLoader](https://github.com/GodotModding/godot-mod-loader) - New loader for Godot mods, based on the [Delta-V loader](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main). Most mods in this repo will use it.
 - [Brotato Wiki > Modding](https://brotato.wiki.spellsandguns.com/Modding) - Download mods, read about them, learn how to install them.
+- [Space Potatoes Discord](https://discord.gg/j39jE6k) - Official Brotato server
 
 <!--
 
