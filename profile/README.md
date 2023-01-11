@@ -1,7 +1,5 @@
 This organisation collects multiple Brotato modding repos together, in one easy place. 
 
-## Repos
-
 ### PCKs
 
 Download the ModLoader PCK to use other mods.
