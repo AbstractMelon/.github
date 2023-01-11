@@ -2,11 +2,9 @@ This organisation collects multiple Brotato modding repos together, in one easy 
 
 ## PCKs
 
-Download the ModLoader PCK to use other mods.
-
 | Repo | Notes |
 | --- | --- |
-| 🏗️ [Brotato ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader) | Brotato v0.6.1.6 + ModLoader v2.0.0 |
+| 🏗️ [Brotato ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader) | Download the ModLoader PCK to use other mods |
 
 ## Mods
 
