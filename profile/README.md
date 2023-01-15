@@ -4,7 +4,7 @@ This organisation collects multiple Brotato modding repos together, in one easy 
 
 | Repo | Notes |
 | --- | --- |
-| 🏗️ [Brotato ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader) | Download the ModLoader PCK to use other mods |
+| 🏗️ [Brotato ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader) | Download the ModLoader PCK to use other mods. Source code is [here](https://github.com/GodotModding/godot-mod-loader) |
 
 ## Mods
 
