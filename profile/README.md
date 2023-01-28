@@ -12,9 +12,9 @@ These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoade
 
 | Repo | Notes | Wiki | Dependencies |
 | --- | --- | --- | --- |
-| ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | Library of effects | - | [Brotils](https://github.com/BrotatoMods/Brotato-BFX) |
-| 💼 [Brotils](https://github.com/BrotatoMods/Brotato-BFX) | Library of utility methods | - | - |
-| 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-BFX) |
+| ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | Library of effects | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) |
+| 💼 [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | Library of utility methods | - | - |
+| 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) |
 | 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | Mutes the explosion effect.  | - | - |
 | 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod) | Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) |
 | 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | - |
