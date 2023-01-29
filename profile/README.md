@@ -12,6 +12,7 @@ These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoade
 
 | Repo | Notes | Wiki | Dependencies |
 | --- | --- | --- | --- |
+| 🔪 [Assassin](https://github.com/BrotatoMods/Brotato-Assassin-Mod) | New characters, weapons and items | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Assassin) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) |
 | ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | Library of effects | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) |
 | 💼 [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | Library of utility methods | - | - |
 | 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) |
