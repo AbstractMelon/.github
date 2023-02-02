@@ -20,7 +20,7 @@ Mods with a tick (✔️) are confirmed to be working with the latest version of
 | 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | ✔️ Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) |
 | 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | Mutes the explosion effect.  | - | - |
 | 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod) | Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) |
-| 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | - |
+| 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | ✔️ Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | - |
 | 👁 [Multi Res](https://github.com/BrotatoMods/Brotato-MultiRes) | Enables resolutions higher than 1080p | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Multiple_Resolutions_Mod) | - |
 
 ## Legacy Mods
