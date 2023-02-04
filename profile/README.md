@@ -12,6 +12,8 @@ These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoade
 
 Mods with a tick (✔️) are confirmed to be working with the latest version of ModLoader.
 
+To download a mod, visit its repo page (the main link on the left), then click Releases in the left sidebar. The mod ZIP is shown in the "Assets" section of each release.
+
 | Repo | Notes | Wiki | Dependencies |
 | --- | --- | --- | --- |
 | 🔪 [Assassin](https://github.com/BrotatoMods/Brotato-Assassin-Mod) | ✔️ New characters, weapons and items | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Assassin) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) |
