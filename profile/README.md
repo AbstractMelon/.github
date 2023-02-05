@@ -35,6 +35,17 @@ These don't work with ModLoader, but will probably be migrated to it eventually.
 | 🛠 [WikiTools](https://github.com/BrotatoMods/Brotato-WikiTools) | Outputs an item grid page for the wiki (eg. [Extatonion > Items](https://brotato.wiki.spellsandguns.com/Mod:Extatonion/Items)) |
 | 📦 [dami's multi mod](https://github.com/BrotatoMods/Brotato-damis-Multiple-Mod-Support) | Old version of [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) |
 
+
+## Web Apps
+
+Mini websites. These might not be directly to Brotato modding, but their code is included on this repo to keep everything together.
+
+| Repo | Link | Notes |
+| ---- | ---- |----- |
+| ⚡ [Attack Speed Calculator](https://github.com/BrotatoMods/Brotato-Attack-Speed-Calculator) | [LINK](https://brotato.codemuffin.com/) | Calculate the displayed cooldown text for a weapon. |
+| 🧪 [Item Creator](https://github.com/BrotatoMods/Brotato-Item-Creator-WebApp) | [LINK](https://brotato.codemuffin.com/item-creator/) | Make a custom item. Intended for fancier item suggestions on Discord. |
+
+
 ## External Links
 
 *Mod creators can join this org to move or create repos here. Just speak to Darkly77 (`Darkly77#0316`) or KANA (`KANA#1834`) on the [Space Potatoes Discord](https://discord.gg/j39jE6k).*
