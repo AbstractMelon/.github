@@ -44,6 +44,7 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 | ---- | ---- |----- |
 | ⚡ [Attack Speed Calculator](https://github.com/BrotatoMods/Brotato-Attack-Speed-Calculator) | [➡️](https://brotato.codemuffin.com/) | Calculate the displayed cooldown text for a weapon. |
 | 🧪 [Item Creator](https://github.com/BrotatoMods/Brotato-Item-Creator-WebApp) | [➡️](https://brotato.codemuffin.com/item-creator/) | Make a custom item. Intended for fancier item suggestions on Discord. |
+| 🥔 [Dressup](https://github.com/BrotatoMods/Brotato-Dressup-WebApp) | [➡️](https://brotato.codemuffin.com/dressup/) | Potato dressup! |
 
 
 ## External Links
