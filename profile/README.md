@@ -35,6 +35,13 @@ These don't work with ModLoader, but will probably be migrated to it eventually.
 | 🛠 [WikiTools](https://github.com/BrotatoMods/Brotato-WikiTools) | Outputs an item grid page for the wiki (eg. [Extatonion > Items](https://brotato.wiki.spellsandguns.com/Mod:Extatonion/Items)) |
 | 📦 [dami's multi mod](https://github.com/BrotatoMods/Brotato-damis-Multiple-Mod-Support) | Old version of [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) |
 
+## Misc
+
+Other repos hosted in this org.
+
+| Repo | Notes |
+| --- | --- |
+| ❔ [Examples](https://github.com/BrotatoMods/Brotato-Example-Mods) | Two simple example mods. <br>For more complex examples, see the [examples](https://github.com/GodotModding/godot-mod-loader-examples) on the GodotModding org |
 
 ## Web Apps
 
