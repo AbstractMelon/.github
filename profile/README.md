@@ -17,14 +17,14 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | Repo | Notes | Wiki | Dependencies | Workshop |
 | --- | --- | --- | --- | --- |
 | 🔪 [Assassin](https://github.com/BrotatoMods/Brotato-Assassin-Mod) | ✔️ New characters, weapons and items | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Assassin) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | - |
-| ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | ✔️ Library of effects | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | - |
-| 💼 [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | ✔️ Library of utility methods | - | - | - |
-| 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | ✔️ Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | - |
+| ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | ✔️ Library of effects | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931388001) |
+| 💼 [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | ✔️ Library of utility methods | - | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931388196) |
+| 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | ✔️ Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931387684) |
 | 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | Mutes the explosion effect.  | - | - | - |
-| 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod) | Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | - |
+| 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod) | ✔️ Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931400839) |
 | 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | ✔️ Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | - | - |
 | 👁 [Multi Res](https://github.com/BrotatoMods/Brotato-MultiRes) | Enables resolutions higher than 1080p | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Multiple_Resolutions_Mod) | - | - |
-| [ExpandedChallenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) | More options when creating challenges | - | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934217303) |
+| 🥇 [ExpandedChallenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) | More options when creating challenges | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934217303) |
 | [WiderCharacterSelect](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
 
 ## Legacy Mods
