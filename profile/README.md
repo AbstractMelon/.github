@@ -16,7 +16,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 
 | Repo | Notes | Wiki | Dependencies | Workshop |
 | --- | --- | --- | --- | --- |
-| 🔪 [Assassin](https://github.com/BrotatoMods/Brotato-Assassin-Mod) | New characters, weapons and items | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Assassin) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | - |
+| 🔪 [Assassin](https://github.com/BrotatoMods/JuneFurrs-Assassin) | New characters, weapons and items | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Assassin) | [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | - |
 | ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | Library of effects | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931388001) |
 | 💼 [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | Library of utility methods | - | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931388196) |
 | 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | Easily create custom characters, weapons, items, challenges, and sets | - | [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931387684) |
