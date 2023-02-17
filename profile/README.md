@@ -10,8 +10,6 @@ This organisation collects multiple Brotato modding repos together, in one easy 
 
 These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader).
 
-Mods with a cross (❌) haven't been updated to work with the latest version of ModLoader yet.
-
 To download a mod, visit its repo page (the main link on the left), then click Releases in the left sidebar. The mod ZIP is shown in the "Assets" section of each release.
 
 | Repo | Notes | Wiki | Dependencies | Workshop |
