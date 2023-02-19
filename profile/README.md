@@ -25,6 +25,8 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | 🥇 [Expanded Challenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) | More options when creating challenges | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934217303) |
 | ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
 | 🎾 [Limit Projectiles](https://github.com/BrotatoMods/Darkly77-LimitProjectiles) | Limits the number of enemy projectiles onscreen | - | - |
+| ⚙ [Show Challenge Names](https://github.com/BrotatoMods/Darkly77-ShowChallengeNames) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934796577) |
+| ⚙ [Show Mod Source](https://github.com/BrotatoMods/Darkly77-ShowModSource) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935491189) |
 
 
 ## Legacy Mods
