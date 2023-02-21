@@ -28,7 +28,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | ⚙ [Show Challenge Names](https://github.com/BrotatoMods/Darkly77-ShowChallengeNames) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934796577) |
 | ⚙ [Show Mod Source](https://github.com/BrotatoMods/Darkly77-ShowModSource) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935491189) |
 | 🍆 [Chonky](https://github.com/BrotatoMods/Darkly77-Chonky) | Silly meme mod that changes Chunky's name | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935861968) |
-| 👿 [CustomDifficultyModes](https://github.com/BrotatoMods/Darkly77-CustomDifficultyModes) | New hardcore difficulty options | - | Workshop |
+| 👿 [CustomDifficultyModes](https://github.com/BrotatoMods/Darkly77-CustomDifficultyModes) | New hardcore difficulty options | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2936604049) |
 
 
 ## Legacy Mods
