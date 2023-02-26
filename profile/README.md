@@ -1,5 +1,7 @@
 This organisation collects multiple Brotato modding repos together, in one easy place. 
 
+*If you're a mod creator and want to join this org, speak to Darkly77 (`Darkly77#0316`) or KANA (`KANA#1834`) on the [Space Potatoes Discord](https://discord.gg/j39jE6k).*
+
 ## PCKs
 
 | Repo | Notes |
@@ -62,8 +64,6 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 
 
 ## External Links
-
-*Mod creators can join this org to move or create repos here. Just speak to Darkly77 (`Darkly77#0316`) or KANA (`KANA#1834`) on the [Space Potatoes Discord](https://discord.gg/j39jE6k).*
 
 - [ModLoader](https://github.com/GodotModding/godot-mod-loader) - New loader for Godot mods, based on the [Delta-V loader](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main). Most mods in this repo will use it.
 - [Brotato Wiki > Modding](https://brotato.wiki.spellsandguns.com/Modding) - Download mods, read about them, learn how to install them.
