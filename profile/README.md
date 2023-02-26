@@ -34,7 +34,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 
 ## Legacy Mods
 
-These don't work with ModLoader, but will probably be migrated to it eventually. They are all installed as an autoloaded singleton, after all other singletons.
+These don't work with ModLoader, but may get migrated to it eventually. They are all installed as an autoloaded singleton, after all other singletons.
 
 | Repo | Notes |
 | --- | --- |
@@ -68,14 +68,3 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 - [ModLoader](https://github.com/GodotModding/godot-mod-loader) - New loader for Godot mods, based on the [Delta-V loader](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main). Most mods in this repo will use it.
 - [Brotato Wiki > Modding](https://brotato.wiki.spellsandguns.com/Modding) - Download mods, read about them, learn how to install them.
 - [Space Potatoes Discord](https://discord.gg/j39jE6k) - Official Brotato server
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
