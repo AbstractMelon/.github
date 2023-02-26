@@ -63,8 +63,15 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 | 🥔 [Dressup](https://github.com/BrotatoMods/Brotato-Dressup-WebApp) | [➡️](https://brotato.codemuffin.com/dressup/) | Potato dressup! |
 
 
+## External Brotato Repos
+
+| Repo | Author  | Notes | 
+| ---- | ------- |----- |
+| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://github.com/otDan) | Makes the vanilla Mods menu better |
+
+
 ## External Links
 
-- [ModLoader](https://github.com/GodotModding/godot-mod-loader) - New loader for Godot mods, based on the [Delta-V loader](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main). Most mods in this repo will use it.
+- [Godot ModLoader](https://github.com/GodotModding/godot-mod-loader) - Universal loader for Godot mods, based on the [Delta-V loader](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main). Most mods in this repo will use it.
 - [Brotato Wiki > Modding](https://brotato.wiki.spellsandguns.com/Modding) - Download mods, read about them, learn how to install them.
 - [Space Potatoes Discord](https://discord.gg/j39jE6k) - Official Brotato server
