@@ -68,6 +68,7 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 | Repo | Author  | Notes | 
 | ---- | ------- |----- |
 | [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://github.com/otDan) | Makes the vanilla Mods menu better |
+| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://github.com/Flabort) | "Genetically modified overkill". Lets you combine characters |
 
 
 ## External Links
