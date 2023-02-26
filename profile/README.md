@@ -33,8 +33,14 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | 👿 [CustomDifficultyModes](https://github.com/BrotatoMods/Darkly77-CustomDifficultyModes) | New hardcore difficulty options (and a proof of concept) | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2936604049) |
 | 🔶 [MoreTiers](https://github.com/BrotatoMods/dami-MoreTiers) | Adds support for tier 5/6 weapons, items and upgrades | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937202411) |
 
+### External Mod Repos
 
-## Legacy Mods
+| Repo | Author  | Notes | 
+| ---- | ------- |----- |
+| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://github.com/otDan) | Makes the vanilla Mods menu better |
+| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://github.com/Flabort) | "Genetically modified overkill". Lets you combine characters |
+
+### Legacy Mods
 
 These don't work with ModLoader, but may get migrated to it eventually. They are all installed as an autoloaded singleton, after all other singletons.
 
@@ -61,14 +67,6 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 | ⚡ [Attack Speed Calculator](https://github.com/BrotatoMods/Brotato-Attack-Speed-Calculator) | [➡️](https://brotato.codemuffin.com/) | Calculate the displayed cooldown text for a weapon. |
 | 🧪 [Item Creator](https://github.com/BrotatoMods/Brotato-Item-Creator-WebApp) | [➡️](https://brotato.codemuffin.com/item-creator/) | Make a custom item. Intended for fancier item suggestions on Discord. |
 | 🥔 [Dressup](https://github.com/BrotatoMods/Brotato-Dressup-WebApp) | [➡️](https://brotato.codemuffin.com/dressup/) | Potato dressup! |
-
-
-## External Brotato Repos
-
-| Repo | Author  | Notes | 
-| ---- | ------- |----- |
-| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://github.com/otDan) | Makes the vanilla Mods menu better |
-| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://github.com/Flabort) | "Genetically modified overkill". Lets you combine characters |
 
 
 ## External Links
