@@ -19,20 +19,20 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | 🔪 [Assassin](https://github.com/BrotatoMods/JuneFurrs-Assassin) | New characters, weapons and items | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Assassin) | - |
 | ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | Library of effects | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931388001) |
 | 💼 [Brotils](https://github.com/BrotatoMods/Brotato-Brotils) | Library of utility methods | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931388196) |
+| 🔥 [BurnStacking](https://github.com/BrotatoMods/dami-BurnStacking) | Stacks sources of burning | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2933632674) |
+| 🍆 [Chonky](https://github.com/BrotatoMods/Darkly77-Chonky) | Silly meme mod that changes Chunky's name.<br>Also a proof of concept for editing attributes | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935861968) |
 | 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader) | Easily create custom characters, weapons, items, challenges, and sets | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931387684) |
-| 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | Mutes the explosion effect.  | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2929976017) |
-| 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod) | Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931400839) |
-| 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931733857) |
-| 👁 [Multi Res](https://github.com/BrotatoMods/Brotato-MultiRes) | Enables resolutions higher than 1080p | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Multiple_Resolutions_Mod) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2930905913) |
+| 👿 [CustomDifficultyModes](https://github.com/BrotatoMods/Darkly77-CustomDifficultyModes) | New hardcore difficulty options (and a proof of concept) | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2936604049) |
 | 🥇 [Expanded Challenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) | More options when creating challenges | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934217303) |
-| ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
+| 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | Mutes the explosion effect.  | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2929976017) |
+| 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931733857) |
+| 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod) | Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2931400839) |
 | 🎾 [Limit Projectiles](https://github.com/BrotatoMods/Darkly77-LimitProjectiles) | Limits the number of enemy projectiles onscreen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934587689) |
+| 🔶 [MoreTiers](https://github.com/BrotatoMods/dami-MoreTiers) | Adds support for tier 5/6 weapons, items and upgrades | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937202411) |
+| 👁 [Multi Res](https://github.com/BrotatoMods/Brotato-MultiRes) | Enables resolutions higher than 1080p | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Multiple_Resolutions_Mod) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2930905913) |
 | ⚙ [Show Challenge Names](https://github.com/BrotatoMods/Darkly77-ShowChallengeNames) | Reveals challenge names before you've unlocked them | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934796577) |
 | ⚙ [Show Mod Source](https://github.com/BrotatoMods/Darkly77-ShowModSource) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935491189) |
-| 🍆 [Chonky](https://github.com/BrotatoMods/Darkly77-Chonky) | Silly meme mod that changes Chunky's name.<br>Also a proof of concept for editing attributes | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935861968) |
-| 👿 [CustomDifficultyModes](https://github.com/BrotatoMods/Darkly77-CustomDifficultyModes) | New hardcore difficulty options (and a proof of concept) | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2936604049) |
-| 🔶 [MoreTiers](https://github.com/BrotatoMods/dami-MoreTiers) | Adds support for tier 5/6 weapons, items and upgrades | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937202411) |
-| 🔥 [BurnStacking](https://github.com/BrotatoMods/dami-BurnStacking) | Stacks sources of burning | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2933632674) |
+| ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
 
 ### External Mod Repos
 
