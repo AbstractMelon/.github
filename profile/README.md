@@ -38,8 +38,9 @@ To download a mod, visit its repo page (the main link on the left), then click R
 
 | Repo | Author  | Notes | 
 | ---- | ------- |----- |
-| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://github.com/otDan) | Makes the vanilla Mods menu better |
-| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://github.com/Flabort) | "Genetically modified overkill". Lets you combine characters |
+| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Makes the vanilla Mods menu better | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646) |
+| [WaveTimer](https://github.com/otDan/Brotato-WaveTimer) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Changes the look of the timer | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2939909483) |
+| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://steamcommunity.com/id/Flabort/myworkshopfiles/?appid=1942280) | "Genetically modified overkill". Lets you combine characters | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937818785) |
 
 ### Legacy Mods
 
