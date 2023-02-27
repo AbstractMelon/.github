@@ -32,6 +32,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | 🍆 [Chonky](https://github.com/BrotatoMods/Darkly77-Chonky) | Silly meme mod that changes Chunky's name | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935861968) |
 | 👿 [CustomDifficultyModes](https://github.com/BrotatoMods/Darkly77-CustomDifficultyModes) | New hardcore difficulty options (and a proof of concept) | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2936604049) |
 | 🔶 [MoreTiers](https://github.com/BrotatoMods/dami-MoreTiers) | Adds support for tier 5/6 weapons, items and upgrades | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937202411) |
+| 🔥 [BurnStacking](https://github.com/BrotatoMods/dami-BurnStacking) | Stacks sources of burning | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2933632674) |
 
 ### External Mod Repos
 
