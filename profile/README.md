@@ -32,6 +32,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | 👁 [Multi Res](https://github.com/BrotatoMods/Brotato-MultiRes) | Enables resolutions higher than 1080p | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Multiple_Resolutions_Mod) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2930905913) |
 | ⚙ [Show Challenge Names](https://github.com/BrotatoMods/Darkly77-ShowChallengeNames) | Reveals challenge names before you've unlocked them | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934796577) |
 | ⚙ [Show Mod Source](https://github.com/BrotatoMods/Darkly77-ShowModSource) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935491189) |
+| 🧾 [Translations Demo](https://github.com/BrotatoMods/Darkly77-TranslationsDemo) | Demo for creating translation mods. Includes 3 custom translations | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2943399661) |
 | ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
 
 ### External Mod Repos
