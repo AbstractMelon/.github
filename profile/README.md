@@ -35,6 +35,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | ⚙ [Show Mod Source](https://github.com/BrotatoMods/Darkly77-ShowModSource) | Shows where modded content comes from | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2935491189) |
 | 🧾 [Translations Demo](https://github.com/BrotatoMods/Darkly77-TranslationsDemo) | Demo for creating translation mods. Includes 3 custom translations | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2943399661) |
 | ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
+| ↕ [Scroll With Controller](https://github.com/BrotatoMods/KANA-ScrollWithController) | Allows you to scroll with the right stick | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2944885435) |
 
 ### External Mod Repos
 
