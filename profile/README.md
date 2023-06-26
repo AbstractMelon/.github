@@ -45,6 +45,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | [WaveTimer](https://github.com/otDan/Brotato-WaveTimer) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Changes the look of the timer | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2939909483) |
 | [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://steamcommunity.com/id/Flabort/myworkshopfiles/?appid=1942280) | "Genetically modified overkill". Lets you combine characters | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937818785) |
 | [Item-Selling](https://github.com/RobocrafterLP/Brotato-Item-Selling) | [RobocrafterLP](https://steamcommunity.com/id/RobocrafterLP/myworkshopfiles/?appid=1942280) | Lets you recycle held items at the shop | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2940822853) |
+| [QMtato](https://github.com/IamQianMo/QMtato) | [QianMo](https://steamcommunity.com/profiles/76561198179180069/myworkshopfiles/?appid=1942280) | Big content mod |
 
 ### Legacy Mods
 
