@@ -2,12 +2,6 @@ This organisation collects multiple Brotato modding repos together, in one easy 
 
 *If you're a mod creator and want to join this org, speak to Darkly77 (`Darkly77#0316`) or KANA (`KANA#1834`) on the [Space Potatoes Discord](https://discord.gg/j39jE6k).*
 
-## PCKs
-
-| Repo | Notes |
-| --- | --- |
-| 🏗️ [Brotato ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader) | Download the ModLoader PCK to use other mods. <br>Source code is [here](https://github.com/GodotModding/godot-mod-loader). Install info is on the [Brotato Wiki](https://brotato.wiki.spellsandguns.com/Modding). |
-
 ## Mods
 
 These mods work with [ModLoader](https://github.com/BrotatoMods/Brotato-ModLoader).
