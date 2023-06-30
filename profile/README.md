@@ -57,6 +57,7 @@ Other repos hosted in this org.
 
 | Repo | Notes |
 | --- | --- |
+| 🧾 [Translations](https://github.com/BrotatoMods/Brotato-Translations) | Official translation CSVs for Brotato, via Blobfish. |
 | ❔ [Examples](https://github.com/BrotatoMods/Brotato-Example-Mods) | Two simple example mods. <br>For more complex examples, see the [examples](https://github.com/GodotModding/godot-mod-loader-examples) on the GodotModding org |
 | 🏗️ [ModLoader (Brotato Fork)](https://github.com/BrotatoMods/godot-mod-loader-brotato) | Temp store for Brotato's modified version of ModLoader. Will be implemeneted in time ([see here](https://github.com/GodotModding/godot-mod-loader/issues/106)) |
 
