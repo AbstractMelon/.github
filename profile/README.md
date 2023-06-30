@@ -31,16 +31,6 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
 | ↕ [Scroll With Controller](https://github.com/BrotatoMods/KANA-ScrollWithController) | Allows you to scroll with the right stick | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2944885435) |
 
-### External Mod Repos
-
-| Repo | Author  | Notes | 
-| ---- | ------- |----- |
-| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Makes the vanilla Mods menu better | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646) |
-| [WaveTimer](https://github.com/otDan/Brotato-WaveTimer) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Changes the look of the timer | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2939909483) |
-| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://steamcommunity.com/id/Flabort/myworkshopfiles/?appid=1942280) | "Genetically modified overkill". Lets you combine characters | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937818785) |
-| [Item-Selling](https://github.com/RobocrafterLP/Brotato-Item-Selling) | [RobocrafterLP](https://steamcommunity.com/id/RobocrafterLP/myworkshopfiles/?appid=1942280) | Lets you recycle held items at the shop | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2940822853) |
-| [QMtato](https://github.com/IamQianMo/QMtato) | [QianMo](https://steamcommunity.com/profiles/76561198179180069/myworkshopfiles/?appid=1942280) | Big content mod |
-
 ### Legacy Mods
 
 These don't work with ModLoader, but may get migrated to it eventually. They are all installed as an autoloaded singleton, after all other singletons.
@@ -69,6 +59,17 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 | ⚡ [Attack Speed Calculator](https://github.com/BrotatoMods/Brotato-Attack-Speed-Calculator) | [➡️](https://brotato.codemuffin.com/) | Calculate the displayed cooldown text for a weapon. |
 | 🧪 [Item Creator](https://github.com/BrotatoMods/Brotato-Item-Creator-WebApp) | [➡️](https://brotato.codemuffin.com/item-creator/) | Make a custom item. Intended for fancier item suggestions on Discord. |
 | 🥔 [Dressup](https://github.com/BrotatoMods/Brotato-Dressup-WebApp) | [➡️](https://brotato.codemuffin.com/dressup/) | Potato dressup! |
+
+
+## External Mod Repos
+
+| Repo | Author  | Notes | 
+| ---- | ------- |----- |
+| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Makes the vanilla Mods menu better | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646) |
+| [WaveTimer](https://github.com/otDan/Brotato-WaveTimer) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Changes the look of the timer | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2939909483) |
+| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://steamcommunity.com/id/Flabort/myworkshopfiles/?appid=1942280) | "Genetically modified overkill". Lets you combine characters | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937818785) |
+| [Item-Selling](https://github.com/RobocrafterLP/Brotato-Item-Selling) | [RobocrafterLP](https://steamcommunity.com/id/RobocrafterLP/myworkshopfiles/?appid=1942280) | Lets you recycle held items at the shop | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2940822853) |
+| [QMtato](https://github.com/IamQianMo/QMtato) | [QianMo](https://steamcommunity.com/profiles/76561198179180069/myworkshopfiles/?appid=1942280) | Big content mod |
 
 
 ## External Links
