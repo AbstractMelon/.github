@@ -65,12 +65,12 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 
 | Repo | Author  | Notes | 
 | ---- | ------- |----- |
-| [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Makes the vanilla Mods menu better | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646) |
-| [WaveTimer](https://github.com/otDan/Brotato-WaveTimer) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Changes the look of the timer | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2939909483) |
-| [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://steamcommunity.com/id/Flabort/myworkshopfiles/?appid=1942280) | "Genetically modified overkill". Lets you combine characters | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937818785) |
-| [Item-Selling](https://github.com/RobocrafterLP/Brotato-Item-Selling) | [RobocrafterLP](https://steamcommunity.com/id/RobocrafterLP/myworkshopfiles/?appid=1942280) | Lets you recycle held items at the shop | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2940822853) |
-| [QMtato](https://github.com/IamQianMo/QMtato) | [QianMo](https://steamcommunity.com/profiles/76561198179180069/myworkshopfiles/?appid=1942280) | Big content mod |
-
+| 📜 [BetterModList](https://github.com/otDan/Brotato-BetterModList) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Makes the vanilla Mods menu better | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646) |
+| ⌛ [WaveTimer](https://github.com/otDan/Brotato-WaveTimer) | [otDan](https://steamcommunity.com/id/otDan/myworkshopfiles/?appid=1942280) | Changes the look of the timer | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2939909483) |
+| 🧬 [GMO](https://github.com/Flabort/Genetically-Engineered-Overkill) | [Flabort](https://steamcommunity.com/id/Flabort/myworkshopfiles/?appid=1942280) | "Genetically modified overkill". Lets you combine characters | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2937818785) |
+| 🏷️ [Item-Selling](https://github.com/RobocrafterLP/Brotato-Item-Selling) | [RobocrafterLP](https://steamcommunity.com/id/RobocrafterLP/myworkshopfiles/?appid=1942280) | Lets you recycle held items at the shop | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2940822853) |
+| 🌟 [QMtato](https://github.com/IamQianMo/QMtato) | [QianMo](https://steamcommunity.com/profiles/76561198179180069/myworkshopfiles/?appid=1942280) | Big content mod |
+| 🇺🇦 [Ukrainian Language](https://github.com/Damglador/Brotato-UA) | [Damglador_UA](https://steamcommunity.com/sharedfiles/filedetails/?id=2945082969) | Ukranian translation |
 
 ## External Links
 
