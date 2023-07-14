@@ -71,6 +71,8 @@ Mini websites. These might not be directly to Brotato modding, but their code is
 | 🏷️ [Item-Selling](https://github.com/RobocrafterLP/Brotato-Item-Selling) | [RobocrafterLP](https://steamcommunity.com/id/RobocrafterLP/myworkshopfiles/?appid=1942280) | Lets you recycle held items at the shop | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2940822853) |
 | 🌟 [QMtato](https://github.com/IamQianMo/QMtato) | [QianMo](https://steamcommunity.com/profiles/76561198179180069/myworkshopfiles/?appid=1942280) | Big content mod |
 | 🇺🇦 [Ukrainian Language](https://github.com/Damglador/Brotato-UA) | [Damglador_UA](https://steamcommunity.com/sharedfiles/filedetails/?id=2945082969) | Ukranian translation |
+| ℹ [More UI](https://github.com/JNBG/Brotato-MoreUI) | [MincedMeatMole](https://steamcommunity.com/id/Mstr1212/myworkshopfiles/?appid=1942280) | In-Wave UI to display your current Primary Stats |
+
 
 ## External Links
 
