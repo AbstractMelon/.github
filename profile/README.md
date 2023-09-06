@@ -31,6 +31,7 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | ↔️ [Wider Character Select](https://github.com/BrotatoMods/Darkly77-WiderCharacterSelect) | Adds more columns to the character and weapon selection screen | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2934197660) |
 | ↕ [Scroll With Controller](https://github.com/BrotatoMods/KANA-ScrollWithController) | Allows you to scroll with the right stick | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2944885435) |
 | 🔼 [ModLoader Patcher](https://github.com/BrotatoMods/KANA-ModLoaderPatcher) | Patches the ModLoader to the latest version. | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3025396725) |
+| 🛩 [ItemExplorerExtension](https://github.com/BrotatoMods/KANA-ItemExplorerExtension) | Extends otDan-ItemExplorer with item tracking | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3030582712) |
 
 ### Legacy Mods
 
