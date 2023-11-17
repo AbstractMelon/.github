@@ -32,6 +32,10 @@ To download a mod, visit its repo page (the main link on the left), then click R
 | ↕ [Scroll With Controller](https://github.com/BrotatoMods/KANA-ScrollWithController) | Allows you to scroll with the right stick | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2944885435) |
 | 🔼 [ModLoader Patcher](https://github.com/BrotatoMods/KANA-ModLoaderPatcher) | Patches the ModLoader to the latest version. | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3025396725) |
 | 🛩 [ItemExplorerExtension](https://github.com/BrotatoMods/KANA-ItemExplorerExtension) | Extends otDan-ItemExplorer with item tracking | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3030582712) |
+| 🚊 [Train Conductor](https://github.com/BrotatoMods/KANA-TrainConductor) | Snake inspired Character | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3082201639) |
+| ⛏ [Treasure Hunter](https://github.com/BrotatoMods/KANA-TreasureHunter) | Character focused on collecting Crates | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3082201639) |
+| 🥔 [Pototo](https://github.com/BrotatoMods/KANA-Pototo) | Collection of KANAs Content Mods | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3082201639) |
+| 🧪 [KANA BFX](https://github.com/BrotatoMods/KANA-BFX) | Library of effects | - | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3005457980) |
 
 ### Legacy Mods
 
